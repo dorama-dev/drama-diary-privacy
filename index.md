@@ -47,7 +47,7 @@ https://appmetrica.yandex.com/docs/en/general/privacy-policy
 
 You can opt out of ad personalization in Android settings: **Settings → Google → Ads → Opt out of Ads Personalization** (or reset your advertising ID).
 
-#### 3.4 Advertising — Yandex Mobile Ads
+#### 3.3 Advertising — Yandex Mobile Ads
 
 The App displays banner ads via the Yandex Mobile Ads SDK. For ad delivery, Yandex may collect:
 
@@ -63,7 +63,7 @@ https://yandex.com/legal/confidential/
 
 #### 4.1 Local Data
 
-All user data (diary, ratings, bookmarks, watch statuses) is stored in a local SQLite database (Room) on your device. Google Drive backups are governed by standard Android settings and Google's policies.
+All user data (diary, ratings, bookmarks, watch statuses) is stored in a local SQLite database (Room) on your device.
 
 #### 4.2 Network Requests
 
@@ -88,7 +88,7 @@ You have the right to:
 
 - **Access:** find out what data is associated with your device — email us
 - **Deletion:** delete all local data by uninstalling the App. To delete analytics data from AppMetrica, contact Yandex per their policy
-- **Opt out of ad personalization:** via Android settings (see section 3.3)
+- **Opt out of ad personalization:** via Android settings (see section 3.2)
 - **Restriction:** you may use the App in airplane mode — the catalog will be unavailable but local diary features will still work
 
 For any privacy-related requests: hao01685446643@gmail.com
