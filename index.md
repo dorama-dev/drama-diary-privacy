@@ -9,7 +9,7 @@ This Privacy Policy explains how Drama Diary ("the App", "we", "us") collects, u
 
 By using the App, you agree to this Policy. If you do not agree, please stop using the App.
 
-Developer: DoramaDev (SOKHA GROUP Sp. z o.o.)
+Developer: Dorama Dev (SOKHA GROUP Sp. z o.o.)
 Contact: hao01685446643@gmail.com
 
 ### 2. Our Privacy Principles
