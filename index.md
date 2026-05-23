@@ -68,7 +68,7 @@ All user data (diary, ratings, bookmarks, watch statuses) is stored in a local S
 
 #### 4.2 Network Requests
 
-All requests to our server use HTTPS with TLS encryption. We do not retain request logs for more than 30 days.
+All requests to our server use HTTPS with TLS encryption. We do not associate network requests with individual users.
 
 #### 4.3 Retention
 
@@ -87,7 +87,7 @@ We do not control third-party data collection practices and encourage you to rev
 
 You have the right to:
 
-- **Access:** find out what data is associated with your device — email us
+- **Information**: you may contact us regarding privacy questions or third-party analytics processing
 - **Deletion:** delete all local data by uninstalling the App. To delete analytics data from AppMetrica, contact Yandex per their policy
 - **Opt out of ad personalization:** via Android settings (see section 3.2)
 - **Restriction:** you may use the App in airplane mode — the catalog will be unavailable but local diary features will still work
@@ -97,7 +97,7 @@ We respond within 30 days.
 
 ### 7. Children
 
-The App is not directed at children under 12. We do not knowingly collect personal data from children. If you believe a child has provided us with data without parental consent, please contact us for deletion.
+The App is not directed at children under 13. We do not knowingly collect personal data from children. If you believe a child has provided us with data without parental consent, please contact us for deletion.
 
 ### 8. International Data Transfers
 
